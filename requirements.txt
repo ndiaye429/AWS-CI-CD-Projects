@@ -7,4 +7,5 @@ numpy
 dill
 #xgboost
 Flask
+uvicorn
 #-e .
